@@ -4,7 +4,7 @@ This anonymous repository contains the codebase of our SIGMOD submission ``Annot
 
 ## Quick Demo
 
-Here is a link to Google Colab Demo to test out a trained Doduo model with custom tables.  
+Please check out our [Google Colab Demo](https://colab.research.google.com/drive/1uXI5d2evZ30Tm8PV3ve1YDvFjVXZHV4z?usp=sharing) to test out a trained Doduo model with custom tables.  
 
 
 ## Installation 
